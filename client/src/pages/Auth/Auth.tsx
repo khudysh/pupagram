@@ -39,7 +39,7 @@ function Auth() {
   };
 
   return (
-    <div className="auth">
+    <div className="authhehe">
       kminchelle <br /> 0lelplR <br />
       <Link to="/">Вернуться обратно</Link>
       {isAuth ? (
